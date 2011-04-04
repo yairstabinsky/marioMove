@@ -17,6 +17,9 @@
 	isUsed=NO;
 	wasJustBorn=NO;
     //pork and donuts
+    
+    
+    //more porkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 }
 
 -(void)initWithStartingPoint:(CGPoint) startingPoint andView:(UIImageView*) view
@@ -54,3 +57,4 @@
 	[super dealloc];
 }
 @end
+// ??dont forget porka troya
