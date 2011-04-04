@@ -16,4 +16,3 @@ bool fired;
 - (bool)returnFired;
 -(void) stopFiring;
 @end
-//?@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
