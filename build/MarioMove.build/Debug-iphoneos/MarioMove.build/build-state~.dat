@@ -1,0 +1,396 @@
+TMarioMove
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.h
+c000000004D63BA0800000000000000E0
+t1298381320
+s224
+i<Foundation/Foundation.h>
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m
+c000000004D6499500000000000000498
+t1298438480
+s1176
+i"Bogy.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.h
+c000000004D62EDD900000000000001ED
+t1298329049
+s493
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m
+c000000004D62EDD90000000000000AA1
+t1298329049
+s2721
+i"MarioMoveAppDelegate.h"
+i"MarioMoveViewController.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.h
+c000000004D647FE0000000000000024E
+t1298431968
+s590
+i<UIKit/UIKit.h>
+i"Mover.h"
+i"Bogy.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m
+c000000004D658F4C0000000000001548
+t1298501452
+s5448
+i"MarioMoveViewController.h"
+i"MoverView.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.h
+c000000004D62F26300000000000001A0
+t1298330211
+s416
+i<Foundation/Foundation.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m
+c000000004D646C710000000000000348
+t1298426993
+s840
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.h
+c000000004D62F2A80000000000000102
+t1298330280
+s258
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m
+c000000004D63D47D0000000000000439
+t1298388093
+s1081
+i"MoverView.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib
+c000000004D62EDD90000000000004E41
+t1298329049
+s20033
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib
+c000000004D651702000000000000913A
+t1298470658
+s37178
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch
+c000000004D62EDD900000000000000BB
+t1298329049
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app.dSYM
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/Info.plist
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/MainWindow.nib
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/MarioMove
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/MarioMoveViewController.nib
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/PkgInfo
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/ResourceRules.plist
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/jerga 2sm.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/joint.slphhha.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/playbarjoint.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/prettyJerga.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/stonedDrawing.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/stonedDrawing_no_joint.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/stonedDrawing_no_joint1.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/Bogy.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveAppDelegate.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveViewController.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/Mover.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MoverView.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/Bogy.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveAppDelegate.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveViewController.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/Mover.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MoverView.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/jerga 2sm.png
+c000000004D58691C0000000000003467
+t1297639708
+s13415
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/joint.slphhha.png
+c000000004D5F0553000000000000ED40
+t1298072915
+s60736
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m
+c000000004D62EDD9000000000000016D
+t1298329049
+s365
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/playbarjoint.png
+c000000004D6454460000000000004F36
+t1298420806
+s20278
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/prettyJerga.png
+c000000004D5F13480000000000002D44
+t1298076488
+s11588
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing.png
+c000000004D5F1B9B000000000000170E
+t1298078619
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint.png
+c000000004D647AF800000000000020BE
+t1298430712
+s8382
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint1.png
+c000000004D647C6C0000000000002043
+t1298431084
+s8259
+
+N/var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-beqcaeyfdetzngdpmqmwkgvexcuk/MarioMove_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-ezjoawlaiybuyidronjlmwoqqpfp/MarioMove_Prefix.pch.gch
+t2
+s0
+
+NMarioMove-Info.plist
+c000000004D62EDD9000000000000038D
+t1298329049
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320248875#320248875#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain320248875#18446744073709551615#0#0(1@0"0(0#1#0"8703303392#0"0#
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/Bogy.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveAppDelegate.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/Mover.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MoverView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/main.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/Bogy.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveAppDelegate.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/Mover.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MoverView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/main.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib"
+r0
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/jerga 2sm.png" "jerga 2sm.png"
+r0
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/joint.slphhha.png" joint.slphhha.png
+r0
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/playbarjoint.png" playbarjoint.png
+r0
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/prettyJerga.png" prettyJerga.png
+r0
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/stonedDrawing.png" stonedDrawing.png
+r0
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/stonedDrawing_no_joint.png" stonedDrawing_no_joint.png
+r0
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/stonedDrawing_no_joint1.png" stonedDrawing_no_joint1.png
+r0
+
+CCpResource build/Debug-iphoneos/MarioMove.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/MarioMove" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app.dSYM" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/MarioMove"
+r0
+
+CLd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove" normal armv6
+r0
+
+CLd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app/Info.plist" MarioMove-Info.plist
+r0
+
+CProcessPCH /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-beqcaeyfdetzngdpmqmwkgvexcuk/MarioMove_Prefix.pch.gch MarioMove_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-ezjoawlaiybuyidronjlmwoqqpfp/MarioMove_Prefix.pch.gch MarioMove_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphoneos/MarioMove.app"
+r0
+

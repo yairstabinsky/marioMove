@@ -1,0 +1,3 @@
+/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m: In function '-[budLightBullet initWithStartingPoint:]':
+/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m:14: warning: conflicting types for '-(void)initWithStartingPoint:(CGPoint)startingPoint'
+/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.h:16: warning: previous declaration of '-(id)initWithStartingPoint:(CGPoint)startingPoint'

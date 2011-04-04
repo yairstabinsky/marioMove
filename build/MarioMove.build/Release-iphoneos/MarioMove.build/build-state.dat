@@ -1,0 +1,1252 @@
+TMarioMove
+v7
+r0
+t320807371.825871
+cCheck dependencies
+cCpResource build/Release-iphoneos/MarioMove.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/Info.plist" MarioMove-Info.plist
+cCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib"
+cCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib"
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/jerga 2sm.png" "jerga 2sm.png"
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/joint.slphhha.png" joint.slphhha.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/prettyJerga.png" prettyJerga.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/playbarjoint.png" playbarjoint.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint.png" stonedDrawing_no_joint.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint1.png" stonedDrawing_no_joint1.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing.png" stonedDrawing.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/icon.png" icon.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/budlight_small.png" budlight_small.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small.png" police_star_small.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small_broken.png" police_star_small_broken.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/fist_small.png" fist_small.png
+cCpResource build/Release-iphoneos/MarioMove.app/shoot.wav shoot.wav
+cCpResource build/Release-iphoneos/MarioMove.app/ballbounce.wav ballbounce.wav
+cCpResource build/Release-iphoneos/MarioMove.app/rustylow.wav ../../rustylow.wav
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_11.png" stonedDrawing_11.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_10.png" stonedDrawing_10.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_9.png" stonedDrawing_9.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_2.png" stonedDrawing_2.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_8.png" stonedDrawing_8.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_3.png" stonedDrawing_3.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_5_1.png" stonedDrawing_5_1.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_4.png" stonedDrawing_4.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_small.png" cop_small.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_dead.png" cop_dead.png
+cCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_in_broken_sheild.png" cop_in_broken_sheild.png
+cProcessPCH /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch.gch MarioMove_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch.gch MarioMove_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/main.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveAppDelegate.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Mover.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MoverView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Bogy.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/budLightBullet.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/bulletView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Cop.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/main.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveAppDelegate.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Mover.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MoverView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Bogy.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/budLightBullet.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/bulletView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Cop.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove" normal armv6
+cLd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove" normal armv7
+cCreateUniversalBinary "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app.dSYM" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove"
+cProcessProductPackaging "/Users/yairstabinsky/Library/MobileDevice/Provisioning Profiles/D34E2087-B28A-4314-88DA-D7DF11A53E1A.mobileprovision" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/embedded.mobileprovision"
+cTouch "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove.xcent"
+cCodeSign "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"
+cValidate "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC10EF400000000003B8CB0
+t1287720692
+s3902640
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004CC10EB60000000000010AAC
+t1287720630
+s68268
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../rustylow.wav
+c000000004D0AD107000000000000BF22
+t1292554503
+s48930
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.h
+c000000004D69C15C0000000000000112
+t1298776412
+s274
+i<Foundation/Foundation.h>
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m
+c000000004D6BBCA50000000000000A19
+t1298906277
+s2585
+i"Bogy.h"
+i<AudioToolbox/AudioServices.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.h
+c000000004D6EB7050000000000000214
+t1299101445
+s532
+i<Foundation/Foundation.h>
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m
+c000000004D6ED4310000000000000314
+t1299108913
+s788
+i"Cop.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.h
+c000000004D62EDD900000000000001ED
+t1298329049
+s493
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m
+c000000004D62EDD90000000000000AA1
+t1298329049
+s2721
+i"MarioMoveAppDelegate.h"
+i"MarioMoveViewController.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.h
+c000000004D6DEB030000000000000682
+t1299049219
+s1666
+i<UIKit/UIKit.h>
+i"Mover.h"
+i"budLightBullet.h"
+i"Bogy.h"
+i"bulletView.h"
+i"Cop.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m
+c000000004D6EEA3900000000000049F8
+t1299114553
+s18936
+i"MarioMoveViewController.h"
+i"MoverView.h"
+i"bulletView.h"
+i<AudioToolbox/AudioServices.h>
+i"budLightBullet.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.h
+c000000004D62F26300000000000001A0
+t1298330211
+s416
+i<Foundation/Foundation.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m
+c000000004D6BA1CE0000000000000346
+t1298899406
+s838
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.h
+c000000004D67DCD70000000000000183
+t1298652375
+s387
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m
+c000000004D6BA10600000000000006A0
+t1298899206
+s1696
+i"MoverView.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.h
+c000000004D6BFC3D0000000000000139
+t1298922557
+s313
+i<Foundation/Foundation.h>
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m
+c000000004D6BFC3D00000000000001D1
+t1298922557
+s465
+i"budLightBullet.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.h
+c000000004D67DFCD000000000000011B
+t1298653133
+s283
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m
+c000000004D67F5240000000000000429
+t1298658596
+s1065
+i"bulletView.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib
+c000000004D6C3AE2000000000000616F
+t1298938594
+s24943
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib
+c000000004D6EDFAD0000000000015D9A
+t1299111853
+s89498
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch
+c000000004D62EDD900000000000000BB
+t1298329049
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/ballbounce.wav
+c000000004D0AD10700000000000020A8
+t1292554503
+s8360
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/budlight_small.png
+c000000004D672B86000000000000158C
+t1298606982
+s5516
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove.xcent
+t1299114569
+s424
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Bogy.o
+t1299114567
+s12856
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Cop.o
+t1299114567
+s41668
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove
+t1299114569
+s57556
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove.LinkFileList
+c000000004D6EEA3A0000000000000509
+t1299114554
+s1289
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveAppDelegate.o
+t1299114566
+s51192
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveViewController.o
+t1299114568
+s89868
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Mover.o
+t1299114567
+s10948
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MoverView.o
+t1299114567
+s45276
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/budLightBullet.o
+t1299114567
+s8160
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/bulletView.o
+t1299114567
+s42552
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/main.o
+t1299114566
+s6540
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Bogy.o
+t1299114569
+s12388
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Cop.o
+t1299114569
+s41280
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove
+t1299114569
+s57148
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove.LinkFileList
+c000000004D6EEA3A0000000000000509
+t1299114554
+s1289
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveAppDelegate.o
+t1299114567
+s51208
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveViewController.o
+t1299114569
+s89104
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Mover.o
+t1299114568
+s10432
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MoverView.o
+t1299114568
+s45288
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/budLightBullet.o
+t1299114569
+s7600
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/bulletView.o
+t1299114569
+s42564
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/main.o
+t1299114567
+s6520
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app
+t1299114570
+s1258
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app.dSYM
+t1299114569
+s102
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/Info.plist
+t1299114554
+s958
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MainWindow.nib
+t1299114556
+s1127
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove
+t1299114569
+s122684
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMoveViewController.nib
+t1299114557
+s6376
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/PkgInfo
+t1299114554
+s8
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/ResourceRules.plist
+t1299114554
+s485
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/ballbounce.wav
+t1299114558
+s8360
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/budlight_small.png
+t1299114558
+s5342
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_dead.png
+t1299114559
+s6382
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_in_broken_sheild.png
+t1299114559
+s7422
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_small.png
+t1299114559
+s6257
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/embedded.mobileprovision
+t1299114569
+s7182
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/fist_small.png
+t1299114558
+s5169
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/icon.png
+t1299114558
+s6294
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/jerga 2sm.png
+t1299114558
+s14952
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/joint.slphhha.png
+t1299114558
+s44922
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/playbarjoint.png
+t1299114558
+s20054
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small.png
+t1299114558
+s6773
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small_broken.png
+t1299114558
+s7179
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/prettyJerga.png
+t1299114558
+s9449
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/rustylow.wav
+t1299114558
+s48930
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/shoot.wav
+t1299114558
+s4352
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing.png
+t1299114558
+s6294
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_10.png
+t1299114558
+s8166
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_11.png
+t1299114558
+s8152
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_2.png
+t1299114558
+s8084
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_3.png
+t1299114558
+s11853
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_4.png
+t1299114559
+s8091
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_5_1.png
+t1299114558
+s8156
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_8.png
+t1299114558
+s8016
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_9.png
+t1299114558
+s8084
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint.png
+t1299114558
+s7734
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint1.png
+t1299114558
+s7145
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_dead.png
+c000000004D6C144D00000000000019A2
+t1298928717
+s6562
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_in_broken_sheild.png
+c000000004D6C1B2E0000000000001EC8
+t1298930478
+s7880
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_small.png
+c000000004D6C14FA00000000000019D5
+t1298928890
+s6613
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fist_small.png
+c000000004D69CD4300000000000012EE
+t1298779459
+s4846
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon.png
+c000000004D5F1B9B000000000000170E
+t1298078619
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/jerga 2sm.png
+c000000004D58691C0000000000003467
+t1297639708
+s13415
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/joint.slphhha.png
+c000000004D5F0553000000000000ED40
+t1298072915
+s60736
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m
+c000000004D62EDD9000000000000016D
+t1298329049
+s365
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/playbarjoint.png
+c000000004D6454460000000000004F36
+t1298420806
+s20278
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small.png
+c000000004D6876B50000000000001C6B
+t1298691765
+s7275
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small_broken.png
+c000000004D69C6BF000000000000208C
+t1298777791
+s8332
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/prettyJerga.png
+c000000004D5F13480000000000002D44
+t1298076488
+s11588
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/shoot.wav
+c000000004D0AD1070000000000001100
+t1292554503
+s4352
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing.png
+c000000004D5F1B9B000000000000170E
+t1298078619
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_10.png
+c000000004D6BE2E80000000000001E34
+t1298916072
+s7732
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_11.png
+c000000004D6BE3090000000000001E3F
+t1298916105
+s7743
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_2.png
+c000000004D6BE10E0000000000001DE5
+t1298915598
+s7653
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_3.png
+c000000004D6BEF9E0000000000002C2D
+t1298919326
+s11309
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_4.png
+c000000004D6BF2750000000000001E1F
+t1298920053
+s7711
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5_1.png
+c000000004D6BF0FB0000000000001E5E
+t1298919675
+s7774
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_8.png
+c000000004D6BE2BD0000000000001DC5
+t1298916029
+s7621
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_9.png
+c000000004D6BE2D00000000000001DE5
+t1298916048
+s7653
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint.png
+c000000004D647AF800000000000020BE
+t1298430712
+s8382
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint1.png
+c000000004D647C6C0000000000002043
+t1298431084
+s8259
+
+N/Users/yairstabinsky/Library/MobileDevice/Provisioning Profiles/D34E2087-B28A-4314-88DA-D7DF11A53E1A.mobileprovision
+c000000004D66AB200000000000001C0E
+t1298574112
+s7182
+
+N/var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch.gch
+t1299114565
+s9783000
+
+N/var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch.gch
+t1299114565
+s10249944
+
+NMarioMove-Info.plist
+c000000004D6730FD00000000000004EB
+t1298608381
+s1259
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320807354#320807354#0(0"0(0#1#0"8692629248#0"0#
+
+CCodeSign "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"
+s320807369.966097
+e320807370.753616
+r1
+xCodeSign
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app
+lSLF07#2@45"CodeSign build/Release-iphoneos/MarioMove.app320807369#320807370#0(0"0(0#0#90"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app8671003712#734"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Yair Stabinsky (L82DG7EFL3)" "--resource-rules=/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/ResourceRules.plist" --entitlements "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove.xcent" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Bogy.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807367.286015
+e320807367.417516
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Bogy.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m320807367#320807367#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m8710794464#2001"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Bogy.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Cop.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807367.601150
+e320807367.747962
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Cop.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m320807367#320807367#0(0"0(0#0#67"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m8697117376#1999"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Cop.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveAppDelegate.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807365.914189
+e320807366.850695
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveAppDelegate.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m320807365#320807366#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m8700240896#2033"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveAppDelegate.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807366.783451
+e320807368.682445
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveViewController.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m320807366#320807368#0(0"0(0#0#87"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m8677848896#2039"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMoveViewController.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Mover.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807366.850811
+e320807367.051277
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Mover.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m320807366#320807367#0(0"0(0#0#69"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m8710892032#2003"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/Mover.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MoverView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807367.051384
+e320807367.285768
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MoverView.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m320807367#320807367#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m8700605504#2011"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MoverView.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/budLightBullet.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807367.417616
+e320807367.500644
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/budLightBullet.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m320807367#320807367#0(0"0(0#0#78"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m8698653568#2021"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/budLightBullet.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/bulletView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807367.500750
+e320807367.601055
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/bulletView.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m: In function '-[bulletView touchesBegan:withEvent:]':
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m:51: warning: unused variable 'touch'
+lSLF07#2@82"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m320807367#320807367#0(241"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m: In function '-[bulletView touchesBegan:withEvent:]':/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m:51: warning: unused variable 'touch'1(22@23"Unused variable 'touch'320807367#129#112#0(6@74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m320351396#51#0#51#0#19"unused variable '*'0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m8708273184#2013"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/bulletView.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/main.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807365.861476
+e320807366.783347
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/main.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m320807365#320807366#0(0"0(0#0#60"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m8623176512#1993"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Bogy.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807368.930483
+e320807369.058636
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Bogy.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m320807368#320807369#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m8690100480#2001"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Bogy.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Cop.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807369.267079
+e320807369.405308
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Cop.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m320807369#320807369#0(0"0(0#0#67"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m8671080736#1999"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Cop.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveAppDelegate.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807367.846032
+e320807367.993650
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveAppDelegate.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m320807367#320807368#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m8695350272#2033"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveAppDelegate.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807367.993745
+e320807369.570890
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveViewController.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m320807367#320807369#0(0"0(0#0#87"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m8690291712#2039"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMoveViewController.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Mover.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807368.682553
+e320807368.787709
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Mover.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m320807368#320807368#0(0"0(0#0#69"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m8700988064#2003"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/Mover.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MoverView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807368.788019
+e320807368.928640
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MoverView.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m320807368#320807368#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m8697591808#2011"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MoverView.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/budLightBullet.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807369.058734
+e320807369.154741
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/budLightBullet.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m320807369#320807369#0(0"0(0#0#78"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m8693923328#2021"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/budLightBullet.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/bulletView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807369.154846
+e320807369.266978
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/bulletView.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m: In function '-[bulletView touchesBegan:withEvent:]':
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m:51: warning: unused variable 'touch'
+lSLF07#2@82"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m320807369#320807369#0(241"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m: In function '-[bulletView touchesBegan:withEvent:]':/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m:51: warning: unused variable 'touch'1(22@23"Unused variable 'touch'320807369#129#112#0(6@74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m320351396#51#0#51#0#19"unused variable '*'0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m8620413856#2013"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/bulletView.o"0#
+
+CCompileC build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/main.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807367.748066
+e320807367.845516
+r1
+xCompileC
+xbuild/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/main.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m320807367#320807367#0(0"0(0#0#60"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m8701368640#1993"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib"
+s320807354.416288
+e320807356.992273
+r1
+xCompileXIB
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320807354#320807356#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib8699093184#597"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MainWindow.nib" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib"
+s320807354.418843
+e320807357.194709
+r1
+xCompileXIB
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib
+lSLF07#2@38"CompileXIB MarioMoveViewController.xib320807354#320807357#0(0"0(0#0#81"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib8697602464#623"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMoveViewController.nib" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/budlight_small.png" budlight_small.png
+s320807358.289454
+e320807358.430817
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/budlight_small.png
+xbudlight_small.png
+lSLF07#2@86"CopyPNGFile build/Release-iphoneos/MarioMove.app/budlight_small.png budlight_small.png320807358#320807358#0(0"0(0#0#72"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/budlight_small.png8691526208#631"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/budlight_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/budlight_small.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_dead.png" cop_dead.png
+s320807359.111654
+e320807359.182040
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_dead.png
+xcop_dead.png
+lSLF07#2@74"CopyPNGFile build/Release-iphoneos/MarioMove.app/cop_dead.png cop_dead.png320807359#320807359#0(0"0(0#0#66"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_dead.png8700617184#619"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_dead.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_dead.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_in_broken_sheild.png" cop_in_broken_sheild.png
+s320807359.114920
+e320807359.184142
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_in_broken_sheild.png
+xcop_in_broken_sheild.png
+lSLF07#2@98"CopyPNGFile build/Release-iphoneos/MarioMove.app/cop_in_broken_sheild.png cop_in_broken_sheild.png320807359#320807359#0(0"0(0#0#78"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_in_broken_sheild.png8696285440#643"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_in_broken_sheild.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_in_broken_sheild.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_small.png" cop_small.png
+s320807358.991102
+e320807359.114840
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_small.png
+xcop_small.png
+lSLF07#2@76"CopyPNGFile build/Release-iphoneos/MarioMove.app/cop_small.png cop_small.png320807358#320807359#0(0"0(0#0#67"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_small.png8678396704#621"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/cop_small.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/fist_small.png" fist_small.png
+s320807358.523741
+e320807358.684489
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/fist_small.png
+xfist_small.png
+lSLF07#2@78"CopyPNGFile build/Release-iphoneos/MarioMove.app/fist_small.png fist_small.png320807358#320807358#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fist_small.png8678406720#623"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fist_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/fist_small.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/icon.png" icon.png
+s320807358.284404
+e320807358.432133
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/icon.png
+xicon.png
+lSLF07#2@66"CopyPNGFile build/Release-iphoneos/MarioMove.app/icon.png icon.png320807358#320807358#0(0"0(0#0#62"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon.png8693548928#611"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/icon.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/jerga 2sm.png" "jerga 2sm.png"
+s320807356.992543
+e320807358.050909
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/jerga 2sm.png
+xjerga 2sm.png
+lSLF07#2@80"CopyPNGFile "build/Release-iphoneos/MarioMove.app/jerga 2sm.png" "jerga 2sm.png"320807356#320807358#0(0"0(0#0#67"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/jerga 2sm.png8710614048#621"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/jerga 2sm.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/jerga 2sm.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/joint.slphhha.png" joint.slphhha.png
+s320807357.194815
+e320807358.129006
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/joint.slphhha.png
+xjoint.slphhha.png
+lSLF07#2@84"CopyPNGFile build/Release-iphoneos/MarioMove.app/joint.slphhha.png joint.slphhha.png320807357#320807358#0(0"0(0#0#71"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/joint.slphhha.png8669516192#629"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/joint.slphhha.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/joint.slphhha.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/playbarjoint.png" playbarjoint.png
+s320807358.107869
+e320807358.198959
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/playbarjoint.png
+xplaybarjoint.png
+lSLF07#2@82"CopyPNGFile build/Release-iphoneos/MarioMove.app/playbarjoint.png playbarjoint.png320807358#320807358#0(0"0(0#0#70"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/playbarjoint.png8700204416#627"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/playbarjoint.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/playbarjoint.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small.png" police_star_small.png
+s320807358.430903
+e320807358.523508
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small.png
+xpolice_star_small.png
+lSLF07#2@92"CopyPNGFile build/Release-iphoneos/MarioMove.app/police_star_small.png police_star_small.png320807358#320807358#0(0"0(0#0#75"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small.png8708251424#637"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small_broken.png" police_star_small_broken.png
+s320807358.432202
+e320807358.533076
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small_broken.png
+xpolice_star_small_broken.png
+lSLF07#2@106"CopyPNGFile build/Release-iphoneos/MarioMove.app/police_star_small_broken.png police_star_small_broken.png320807358#320807358#0(0"0(0#0#82"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small_broken.png8697507136#651"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small_broken.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/police_star_small_broken.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/prettyJerga.png" prettyJerga.png
+s320807358.050996
+e320807358.107788
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/prettyJerga.png
+xprettyJerga.png
+lSLF07#2@80"CopyPNGFile build/Release-iphoneos/MarioMove.app/prettyJerga.png prettyJerga.png320807358#320807358#0(0"0(0#0#69"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/prettyJerga.png8696825152#625"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/prettyJerga.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/prettyJerga.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing.png" stonedDrawing.png
+s320807358.218504
+e320807358.289364
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing.png
+xstonedDrawing.png
+lSLF07#2@84"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing.png stonedDrawing.png320807358#320807358#0(0"0(0#0#71"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing.png8695132160#629"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_10.png" stonedDrawing_10.png
+s320807358.684566
+e320807358.781212
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_10.png
+xstonedDrawing_10.png
+lSLF07#2@90"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_10.png stonedDrawing_10.png320807358#320807358#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_10.png8696175616#635"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_10.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_10.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_11.png" stonedDrawing_11.png
+s320807358.546427
+e320807358.689808
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_11.png
+xstonedDrawing_11.png
+lSLF07#2@90"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_11.png stonedDrawing_11.png320807358#320807358#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_11.png8686339040#635"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_11.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_11.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_2.png" stonedDrawing_2.png
+s320807358.764263
+e320807358.870504
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_2.png
+xstonedDrawing_2.png
+lSLF07#2@88"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_2.png stonedDrawing_2.png320807358#320807358#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_2.png8688354848#633"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_2.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_2.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_3.png" stonedDrawing_3.png
+s320807358.870597
+e320807358.991008
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_3.png
+xstonedDrawing_3.png
+lSLF07#2@88"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_3.png stonedDrawing_3.png320807358#320807358#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_3.png8699251968#633"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_3.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_3.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_4.png" stonedDrawing_4.png
+s320807358.964514
+e320807359.111555
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_4.png
+xstonedDrawing_4.png
+lSLF07#2@88"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_4.png stonedDrawing_4.png320807358#320807359#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_4.png8690488640#633"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_4.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_4.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_5_1.png" stonedDrawing_5_1.png
+s320807358.881980
+e320807358.964419
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_5_1.png
+xstonedDrawing_5_1.png
+lSLF07#2@92"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_5_1.png stonedDrawing_5_1.png320807358#320807358#0(0"0(0#0#75"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5_1.png8695093568#637"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5_1.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_5_1.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_8.png" stonedDrawing_8.png
+s320807358.781306
+e320807358.881820
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_8.png
+xstonedDrawing_8.png
+lSLF07#2@88"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_8.png stonedDrawing_8.png320807358#320807358#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_8.png8681947360#633"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_8.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_8.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_9.png" stonedDrawing_9.png
+s320807358.689897
+e320807358.764172
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_9.png
+xstonedDrawing_9.png
+lSLF07#2@88"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_9.png stonedDrawing_9.png320807358#320807358#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_9.png8693918496#633"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_9.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_9.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint.png" stonedDrawing_no_joint.png
+s320807358.129102
+e320807358.218407
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint.png
+xstonedDrawing_no_joint.png
+lSLF07#2@102"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint.png stonedDrawing_no_joint.png320807358#320807358#0(0"0(0#0#80"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint.png8695794752#647"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint.png"0#
+
+CCopyPNGFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint1.png" stonedDrawing_no_joint1.png
+s320807358.199048
+e320807358.284310
+r1
+xCopyPNGFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint1.png
+xstonedDrawing_no_joint1.png
+lSLF07#2@104"CopyPNGFile build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint1.png stonedDrawing_no_joint1.png320807358#320807358#0(0"0(0#0#81"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint1.png8640030336#649"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint1.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/stonedDrawing_no_joint1.png"0#
+
+CCpResource build/Release-iphoneos/MarioMove.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s320807354.288867
+e320807354.416198
+r1
+xCpResource
+xbuild/Release-iphoneos/MarioMove.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist320807354#320807354#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8671808320#553"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"0#
+
+CCpResource build/Release-iphoneos/MarioMove.app/ballbounce.wav ballbounce.wav
+s320807358.534137
+e320807358.573741
+r1
+xCpResource
+xbuild/Release-iphoneos/MarioMove.app/ballbounce.wav
+xballbounce.wav
+lSLF07#2@19"Copy ballbounce.wav320807358#320807358#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/ballbounce.wav8670736096#534"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/ballbounce.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"0#
+
+CCpResource build/Release-iphoneos/MarioMove.app/rustylow.wav ../../rustylow.wav
+s320807358.544168
+e320807358.683432
+r1
+xCpResource
+xbuild/Release-iphoneos/MarioMove.app/rustylow.wav
+x../../rustylow.wav
+lSLF07#2@23"Copy ../../rustylow.wav320807358#320807358#0(0"0(0#0#72"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../rustylow.wav8687258368#538"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../rustylow.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"0#
+
+CCpResource build/Release-iphoneos/MarioMove.app/shoot.wav shoot.wav
+s320807358.533165
+e320807358.563790
+r1
+xCpResource
+xbuild/Release-iphoneos/MarioMove.app/shoot.wav
+xshoot.wav
+lSLF07#2@14"Copy shoot.wav320807358#320807358#0(0"0(0#0#63"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/shoot.wav8673696864#529"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/shoot.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"0#
+
+CCreateUniversalBinary "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove" normal "armv6 armv7"
+s320807369.715867
+e320807369.733618
+r1
+xCreateUniversalBinary
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove
+xnormal
+xarmv6 armv7
+lSLF07#2@89"CreateUniversalBinary build/Release-iphoneos/MarioMove.app/MarioMove normal "armv6 armv7"320807369#320807369#0(0"0(0#0#65"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/armv6 armv78680361824#608"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove" -output "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove"0#
+
+CGenerateDSYMFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app.dSYM" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove"
+s320807369.733700
+e320807369.788727
+r1
+xGenerateDSYMFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app.dSYM
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove
+lSLF07#2@105"GenerateDSYMFile build/Release-iphoneos/MarioMove.app.dSYM build/Release-iphoneos/MarioMove.app/MarioMove320807369#320807369#0(0"0(0#0#100"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove8679579328#423"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/MarioMove" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app.dSYM"0#
+
+CLd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove" normal armv6
+s320807369.571023
+e320807369.670914
+r1
+xLd
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove
+xnormal
+xarmv6
+lSLF07#2@144"Link /Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove320807369#320807369#0(0"0(0#0#0"8691977760#988"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" -filelist "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv6/MarioMove"0#
+
+CLd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove" normal armv7
+s320807369.671008
+e320807369.715766
+r1
+xLd
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove
+xnormal
+xarmv7
+lSLF07#2@144"Link /Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove320807369#320807369#0(0"0(0#0#0"8681525056#988"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" -filelist "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/Objects-normal/armv7/MarioMove"0#
+
+CProcessInfoPlistFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/Info.plist" MarioMove-Info.plist
+s320807354.290607
+e320807354.366115
+r1
+xProcessInfoPlistFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/Info.plist
+xMarioMove-Info.plist
+lSLF07#2@28"Process MarioMove-Info.plist320807354#320807354#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove-Info.plist8688900032#644"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MarioMove-Info.plist -genpkginfo "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/ResourceRules.plist" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/Info.plist"0#
+
+CProcessPCH /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch.gch MarioMove_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s320807359.184557
+e320807365.861365
+r1
+xProcessPCH
+x/var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch.gch
+xMarioMove_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MarioMove_Prefix.pch320807359#320807365#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch8693346528#1870"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv6" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch" -o /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-cbdxzgzknmbwkabdbtjbkkwciikv/MarioMove_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch.gch MarioMove_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s320807359.186407
+e320807365.748058
+r1
+xProcessPCH
+x/var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch.gch
+xMarioMove_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MarioMove_Prefix.pch320807359#320807365#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch8690574752#1870"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources/armv7" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch" -o /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-fockfbkgwekqvnfeuaznuqsredee/MarioMove_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/yairstabinsky/Library/MobileDevice/Provisioning Profiles/D34E2087-B28A-4314-88DA-D7DF11A53E1A.mobileprovision" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/embedded.mobileprovision"
+s320807369.789307
+e320807369.891400
+r1
+xProcessProductPackaging
+x/Users/yairstabinsky/Library/MobileDevice/Provisioning Profiles/D34E2087-B28A-4314-88DA-D7DF11A53E1A.mobileprovision
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/embedded.mobileprovision
+lSLF07#2@204"ProcessProductPackaging "/Users/yairstabinsky/Library/MobileDevice/Provisioning Profiles/D34E2087-B28A-4314-88DA-D7DF11A53E1A.mobileprovision" build/Release-iphoneos/MarioMove.app/embedded.mobileprovision320807369#320807369#0(0"0(0#0#115"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/embedded.mobileprovision8686732928#469"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/yairstabinsky/Library/MobileDevice/Provisioning Profiles/D34E2087-B28A-4314-88DA-D7DF11A53E1A.mobileprovision" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove.xcent"
+s320807369.898296
+e320807369.966027
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove.xcent
+lSLF07#2@183"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove.xcent320807369#320807369#0(0"0(0#0#124"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove.xcent8681002336#474"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Release-iphoneos/MarioMove.build/MarioMove.xcent"0#
+
+CTouch "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"
+s320807369.893197
+e320807369.898205
+r1
+xTouch
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app
+lSLF07#2@96"Touch /Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app320807369#320807369#0(0"0(0#0#0"8692486432#302"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"0#
+
+CValidate "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"
+s320807370.753848
+e320807371.825825
+r1
+xValidate
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app
+o2011-03-03 03:09:31.222 Validation[91284:607] *** Warning: Defaulting to the standard codesign tool
+lSLF07#2@45"Validate build/Release-iphoneos/MarioMove.app320807370#320807371#0(100"2011-03-03 03:09:31.222 Validation[91284:607] *** Warning: Defaulting to the standard codesign tool0(0#0#90"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app8687246176#411"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Release-iphoneos/MarioMove.app"0#
+

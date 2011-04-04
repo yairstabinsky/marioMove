@@ -1,0 +1,2153 @@
+TMarioMove
+v7
+r0
+t322024714.611879
+cCheck dependencies
+cProcessInfoPlistFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/Info.plist" MarioMove-Info.plist
+cCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib"
+cCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib"
+cCpResource "build/Debug-iphonesimulator/MarioMove.app/jerga 2sm.png" "jerga 2sm.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/joint.slphhha.png joint.slphhha.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/prettyJerga.png prettyJerga.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/playbarjoint.png playbarjoint.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_no_joint.png stonedDrawing_no_joint.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_no_joint1.png stonedDrawing_no_joint1.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing.png stonedDrawing.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/budlight_small.png budlight_small.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/police_star_small.png police_star_small.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/police_star_small_broken.png police_star_small_broken.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/fist_small.png fist_small.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/shoot.wav shoot.wav
+cCpResource build/Debug-iphonesimulator/MarioMove.app/ballbounce.wav ballbounce.wav
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_11.png stonedDrawing_11.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_10.png stonedDrawing_10.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_9.png stonedDrawing_9.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_2.png stonedDrawing_2.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_8.png stonedDrawing_8.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_3.png stonedDrawing_3.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_5_1.png stonedDrawing_5_1.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_4.png stonedDrawing_4.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/cop_small.png cop_small.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/cop_dead.png cop_dead.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/cop_in_broken_sheild.png cop_in_broken_sheild.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/abort.wav abort.wav
+cCpResource build/Debug-iphonesimulator/MarioMove.app/laser_1.wav laser_1.wav
+cCpResource build/Debug-iphonesimulator/MarioMove.app/oh_no.wav oh_no.wav
+cCpResource "build/Debug-iphonesimulator/MarioMove.app/boing_2 2.wav" "boing_2 2.wav"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/metal_clang_2.wav metal_clang_2.wav
+cCpResource "build/Debug-iphonesimulator/MarioMove.app/Screen shot 2011-03-04 at 8.15.52 PM.png" "Screen shot 2011-03-04 at 8.15.52 PM.png"
+cCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib"
+cCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/start.xib"
+cCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.xib"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/royke_small.png royke_small.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/macabbi.png macabbi.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/mizrahi_small.png mizrahi_small.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/keter_smal.png keter_smal.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/royke_small_2.png royke_small_2.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/royke_devil_small.png royke_devil_small.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/mizrahi_broken.png mizrahi_broken.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/s_mizrahi_small.png s_mizrahi_small.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/s_mizrahi_emboss.png s_mizrahi_emboss.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/royke_devil_hurt_top.png royke_devil_hurt_top.png
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion1.png "explosion pics/explosion1.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion10.png "explosion pics/explosion10.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion11.png "explosion pics/explosion11.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion12.png "explosion pics/explosion12.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion13.png "explosion pics/explosion13.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion14.png "explosion pics/explosion14.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion15.png "explosion pics/explosion15.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion16.png "explosion pics/explosion16.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion17.png "explosion pics/explosion17.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion18.png "explosion pics/explosion18.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion19.png "explosion pics/explosion19.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion2.png "explosion pics/explosion2.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion20.png "explosion pics/explosion20.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion21.png "explosion pics/explosion21.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion23.png "explosion pics/explosion23.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion24.png "explosion pics/explosion24.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion3.png "explosion pics/explosion3.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion4.png "explosion pics/explosion4.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion5.png "explosion pics/explosion5.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion6.png "explosion pics/explosion6.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion7.png "explosion pics/explosion7.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion8.png "explosion pics/explosion8.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/explosion9.png "explosion pics/explosion9.png"
+cCpResource "build/Debug-iphonesimulator/MarioMove.app/Screen shot 2011-03-13 at 11.06.13 PM.png" "explosion pics/Screen shot 2011-03-13 at 11.06.13 PM.png"
+cCpResource build/Debug-iphonesimulator/MarioMove.app/yyyyyyyyyyyyyyboing_x.wav yyyyyyyyyyyyyyboing_x.wav
+cCpResource build/Debug-iphonesimulator/MarioMove.app/metal_crunch.wav metal_crunch.wav
+cCpResource build/Debug-iphonesimulator/MarioMove.app/thunk.wav thunk.wav
+cCpResource build/Debug-iphonesimulator/MarioMove.app/fire.wav fire.wav
+cProcessPCH /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch.gch MarioMove_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/main.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveAppDelegate.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Mover.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MoverView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Bogy.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/budLightBullet.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/bulletView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Cop.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/StartViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/RoykeController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/DropStarOperation.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove" normal i386
+cGenerateDSYMFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app.dSYM" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove"
+cTouch "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004CC1222F0000000000010AAC
+t1287725615
+s68268
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../icon.png
+c000000004D5F1B9B000000000000170E
+t1298078619
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../rustylow.wav
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.h
+c000000004D69C15C0000000000000112
+t1298776412
+s274
+i<Foundation/Foundation.h>
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m
+c000000004D7641940000000000000A16
+t1299595668
+s2582
+i"Bogy.h"
+i<AudioToolbox/AudioServices.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/BogyView.h
+c000000004D63B45900000000000000CE
+t1298379865
+s206
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/BogyView.m
+c000000004D63B459000000000000024C
+t1298379865
+s588
+i"BogyView.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.h
+c000000004D6EB7050000000000000214
+t1299101445
+s532
+i<Foundation/Foundation.h>
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m
+c000000004D6ED4310000000000000314
+t1299108913
+s788
+i"Cop.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.h
+c000000004D81689A000000000000013A
+t1300326554
+s314
+i<Foundation/Foundation.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m
+c000000004D8179D10000000000000382
+t1300330961
+s898
+i"DropStarOperation.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.h
+c000000004D756B720000000000000306
+t1299540850
+s774
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m
+c000000004D7A5D5A0000000000000DB2
+t1299864922
+s3506
+i"MarioMoveAppDelegate.h"
+i"MarioMoveViewController.h"
+i"StartViewController.h"
+i"RoykeController.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.h
+c000000004D743BE9000000000000074C
+t1299463145
+s1868
+i<UIKit/UIKit.h>
+i"Mover.h"
+i"budLightBullet.h"
+i"Bogy.h"
+i"bulletView.h"
+i"Cop.h"
+i"StartViewController.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m
+c000000004D76CC4600000000000052CE
+t1299631174
+s21198
+i"MarioMoveViewController.h"
+i"MoverView.h"
+i"bulletView.h"
+i<AudioToolbox/AudioServices.h>
+i"MarioMoveAppDelegate.h"
+i"budLightBullet.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.h
+c000000004D62F26300000000000001A0
+t1298330211
+s416
+i<Foundation/Foundation.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m
+c000000004D79F5510000000000000346
+t1299838289
+s838
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.h
+c000000004D67DCD70000000000000183
+t1298652375
+s387
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m
+c000000004D79F55100000000000006A0
+t1299838289
+s1696
+i"MoverView.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.h
+c000000004D816ACD00000000000007E5
+t1300327117
+s2021
+i<UIKit/UIKit.h>
+i"Mover.h"
+i"budLightBullet.h"
+i"Bogy.h"
+i"bulletView.h"
+i"Cop.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m
+c000000004D8178F200000000000086C1
+t1300330738
+s34497
+i"RoykeController.h"
+i"MarioMoveViewController.h"
+i"MoverView.h"
+i"bulletView.h"
+i<AudioToolbox/AudioServices.h>
+i"MarioMoveAppDelegate.h"
+i"DropStarOperation.h"
+i"budLightBullet.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.xib
+c000000004D7EAD020000000000018827
+t1300147458
+s100391
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.h
+c000000004D8158CF000000000000024B
+t1300322511
+s587
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m
+c000000004D8159600000000000004842
+t1300322656
+s18498
+i"StartViewController.h"
+i"MarioMoveAppDelegate.h"
+i"MarioMoveViewController.h"
+i"RoykeController.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib
+c000000004D7A635B0000000000005BDE
+t1299866459
+s23518
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.h
+c000000004D6BFC3D0000000000000139
+t1298922557
+s313
+i<Foundation/Foundation.h>
+i"Mover.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m
+c000000004D6F0C9600000000000001D4
+t1299123350
+s468
+i"budLightBullet.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.h
+c000000004D67DFCD000000000000011B
+t1298653133
+s283
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m
+c000000004D72439A00000000000005A6
+t1299334042
+s1446
+i"bulletView.h"
+i<AudioToolbox/AudioServices.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/start.xib
+c000000004D80407F0000000000007900
+t1300250751
+s30976
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/startViewController.h
+c000000004D724A730000000000000162
+t1299335795
+s354
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/startViewController.m
+c000000004D72470900000000000005B2
+t1299334921
+s1458
+i"startViewController.h"
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/startViewController.xib
+c000000004D724A790000000000001943
+t1299335801
+s6467
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib
+c000000004D756C310000000000009D8C
+t1299541041
+s40332
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib
+c000000004D74F2F90000000000019D79
+t1299510009
+s105849
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch
+c000000004D62EDD900000000000000BB
+t1298329049
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Screen shot 2011-03-04 at 8.15.52 PM.png
+c000000004D712C5F0000000000004B29
+t1299262559
+s19241
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/abort.wav
+c000000003E2465C00000000000009284
+t1042572736
+s37508
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/ballbounce.wav
+c000000004D0AD10700000000000020A8
+t1292554503
+s8360
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/boing_1.wav
+c000000003F8E84B0000000000000096A
+t1066304688
+s2410
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/boing_2 2.wav
+c000000003F8E848A0000000000000866
+t1066304650
+s2150
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/budlight_small.png
+c000000004D672B86000000000000158C
+t1298606982
+s5516
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app
+t1300330962
+s2856
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app.dSYM
+t1300330962
+s102
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/Info.plist
+t1298611156
+s768
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MainWindow.nib
+t1299541190
+s1347
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove
+t1300330962
+s142264
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMoveViewController.nib
+t1299541190
+s7364
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/PkgInfo
+t1298611156
+s8
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/RoykeController.nib
+t1300147466
+s7061
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/Screen shot 2011-03-04 at 8.15.52 PM.png
+t1299262598
+s19241
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/Screen shot 2011-03-13 at 11.06.13 PM.png
+t1300054637
+s5840
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/StartViewController.nib
+t1299866642
+s2514
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/abort.wav
+t1299117367
+s37508
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/ballbounce.wav
+t1298783272
+s8360
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/boing_1.wav
+t1299117367
+s2410
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/boing_2 2.wav
+t1299117367
+s2150
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/budlight_small.png
+t1298611156
+s5516
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/cop_dead.png
+t1298937922
+s6562
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/cop_in_broken_sheild.png
+t1298937922
+s7880
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/cop_small.png
+t1298937922
+s6613
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion1.png
+t1300054637
+s4240
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion10.png
+t1300054637
+s9316
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion11.png
+t1300054637
+s9404
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion12.png
+t1300054637
+s9405
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion13.png
+t1300054637
+s9412
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion14.png
+t1300054637
+s9482
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion15.png
+t1300054637
+s9328
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion16.png
+t1300054637
+s9342
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion17.png
+t1300054637
+s9232
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion18.png
+t1300054637
+s8530
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion19.png
+t1300054637
+s8540
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion2.png
+t1300054637
+s5267
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion20.png
+t1300054637
+s8044
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion21.png
+t1300054637
+s7161
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion23.png
+t1300054637
+s6109
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion24.png
+t1300054637
+s4187
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion3.png
+t1300054637
+s6250
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion4.png
+t1300054637
+s7023
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion5.png
+t1300054637
+s7834
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion6.png
+t1300054637
+s8339
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion7.png
+t1300054637
+s8813
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion8.png
+t1300054637
+s8978
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/explosion9.png
+t1300054637
+s9301
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/fire.wav
+t1300107429
+s38635
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/fist_small.png
+t1298783272
+s4846
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/icon 2.png
+t1298600580
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/icon.png
+t1298601209
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/icon1.png
+t1298600580
+s8259
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/jerga 2sm.png
+t1298344779
+s13415
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/joint.slphhha.png
+t1298389253
+s60736
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/keter_smal.png
+t1299541191
+s7462
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/laser_1.wav
+t1299117367
+s19040
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/macabbi.png
+t1299541191
+s15166
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/metal_clang_2.wav
+t1299117367
+s2432
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/metal_crunch.wav
+t1300105400
+s3570
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/mizrahi_broken.png
+t1299548757
+s6522
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/mizrahi_small.png
+t1299541191
+s6613
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/oh_no.wav
+t1299117367
+s37108
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/playbarjoint.png
+t1298420926
+s20278
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/police_star_small.png
+t1298691830
+s7275
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/police_star_small_broken.png
+t1298778117
+s8332
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/prettyJerga.png
+t1298394109
+s11588
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/royke_devil_big.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/royke_devil_hurt_top.png
+t1299983127
+s7625
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/royke_devil_small.png
+t1299547909
+s7330
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/royke_small.png
+t1299541191
+s6378
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/royke_small_2.png
+t1299547909
+s6904
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/royke_small_3.png
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/rustylow.wav
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/s_mizrahi_emboss.png
+t1299603426
+s5929
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/s_mizrahi_small.png
+t1299598560
+s5614
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/shoot.wav
+t1298783272
+s4352
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/start.nib
+t1300250765
+s2657
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/startViewController.nib
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing.png
+t1298431251
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing1.png
+t1298389253
+s1611
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_10.png
+t1298916893
+s7732
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_11.png
+t1298916892
+s7743
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_2.png
+t1298916893
+s7653
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_3.png
+t1298921693
+s11309
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_4.png
+t1298921693
+s7711
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_5.png
+t1298916892
+s7599
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_5_1.png
+t1298921693
+s7774
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_8.png
+t1298916893
+s7621
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_9.png
+t1298916893
+s7653
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_no_joint.png
+t1298430918
+s8382
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_no_joint1.png
+t1298431251
+s8259
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/thunk.wav
+t1300105400
+s13799
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/yyyyyyyyyyyyyyboing_x.wav
+t1300070458
+s7740
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Bogy.o
+t1299595668
+s14096
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/BogyView.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Cop.o
+t1299108913
+s42436
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/DropStarOperation.o
+t1300330961
+s41440
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMove.LinkFileList
+c000000004D81597200000000000006FB
+t1300322674
+s1787
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveAppDelegate.o
+t1300327117
+s55816
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveViewController.o
+t1300322675
+s122248
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Mover.o
+t1299838290
+s11288
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MoverView.o
+t1299838290
+s45752
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/RoykeController.o
+t1300330740
+s143432
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/StartViewController.o
+t1300327118
+s61112
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/budLightBullet.o
+t1299257849
+s8228
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/bulletView.o
+t1299334042
+s44780
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/main.o
+t1298330215
+s6332
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/startViewController.o
+t2
+s0
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_dead.png
+c000000004D6C144D00000000000019A2
+t1298928717
+s6562
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_in_broken_sheild.png
+c000000004D6C1B2E0000000000001EC8
+t1298930478
+s7880
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_small.png
+c000000004D6C14FA00000000000019D5
+t1298928890
+s6613
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/Screen shot 2011-03-13 at 11.06.13 PM.png
+c000000004D7D31C900000000000016D0
+t1300050377
+s5840
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion1.png
+c000000004D7D37BD0000000000001090
+t1300051901
+s4240
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion10.png
+c000000004D7D3D640000000000002464
+t1300053348
+s9316
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion11.png
+c000000004D7D3D7F00000000000024BC
+t1300053375
+s9404
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion12.png
+c000000004D7D3D9B00000000000024BD
+t1300053403
+s9405
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion13.png
+c000000004D7D3DB500000000000024C4
+t1300053429
+s9412
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion14.png
+c000000004D7D3DE3000000000000250A
+t1300053475
+s9482
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion15.png
+c000000004D7D3DFE0000000000002470
+t1300053502
+s9328
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion16.png
+c000000004D7D3E1C000000000000247E
+t1300053532
+s9342
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion17.png
+c000000004D7D3E370000000000002410
+t1300053559
+s9232
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion18.png
+c000000004D7D3E500000000000002152
+t1300053584
+s8530
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion19.png
+c000000004D7D3E66000000000000215C
+t1300053606
+s8540
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion2.png
+c000000004D7D38280000000000001493
+t1300052008
+s5267
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion20.png
+c000000004D7D3E840000000000001F6C
+t1300053636
+s8044
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion21.png
+c000000004D7D3EA80000000000001BF9
+t1300053672
+s7161
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion23.png
+c000000004D7D3EEB00000000000017DD
+t1300053739
+s6109
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion24.png
+c000000004D7D400F000000000000105B
+t1300054031
+s4187
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion3.png
+c000000004D7D3862000000000000186A
+t1300052066
+s6250
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion4.png
+c000000004D7D38860000000000001B6F
+t1300052102
+s7023
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion5.png
+c000000004D7D38B20000000000001E9A
+t1300052146
+s7834
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion6.png
+c000000004D7D38E70000000000002093
+t1300052199
+s8339
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion7.png
+c000000004D7D39A8000000000000226D
+t1300052392
+s8813
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion8.png
+c000000004D7D3A820000000000002312
+t1300052610
+s8978
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion9.png
+c000000004D7D3D400000000000002455
+t1300053312
+s9301
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fire.wav
+c000000004D7E0D5C00000000000096EB
+t1300106588
+s38635
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fist_small.png
+c000000004D69CD4300000000000012EE
+t1298779459
+s4846
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon 2.png
+c000000004D5F1B9B000000000000170E
+t1298078619
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon.png
+c000000004D5F1B9B000000000000170E
+t1298078619
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon1.png
+c000000004D647C6C0000000000002043
+t1298431084
+s8259
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/jerga 2sm.png
+c000000004D58691C0000000000003467
+t1297639708
+s13415
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/joint.slphhha.png
+c000000004D5F0553000000000000ED40
+t1298072915
+s60736
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/keter_smal.png
+c000000004D74ECB90000000000001D26
+t1299508409
+s7462
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/laser_1.wav
+c000000003E650F420000000000004A60
+t1046810434
+s19040
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/macabbi.png
+c000000004D74E1340000000000003B3E
+t1299505460
+s15166
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m
+c000000004D62EDD9000000000000016D
+t1298329049
+s365
+i<UIKit/UIKit.h>
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/metal_clang_2.wav
+c000000003F8E85000000000000000980
+t1066304768
+s2432
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/metal_crunch.wav
+c000000004D7E071C0000000000000DF2
+t1300104988
+s3570
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/mizrahi_broken.png
+c000000004D758A40000000000000197A
+t1299548736
+s6522
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/mizrahi_small.png
+c000000004D74E5E200000000000019D5
+t1299506658
+s6613
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/oh_no.wav
+c000000003F1E5F0200000000000090F4
+t1058955010
+s37108
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/playbarjoint.png
+c000000004D6454460000000000004F36
+t1298420806
+s20278
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small.png
+c000000004D6876B50000000000001C6B
+t1298691765
+s7275
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small_broken.png
+c000000004D69C6BF000000000000208C
+t1298777791
+s8332
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/prettyJerga.png
+c000000004D5F13480000000000002D44
+t1298076488
+s11588
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_devil_big.png
+c000000004D758682000000000001A271
+t1299547778
+s107121
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_devil_hurt_top.png
+c000000004D7C29F30000000000001DC9
+t1299982835
+s7625
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_devil_small.png
+c000000004D7586AF0000000000001CA2
+t1299547823
+s7330
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_small.png
+c000000004D74E01800000000000018EA
+t1299505176
+s6378
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_small_2.png
+c000000004D7579640000000000001AF8
+t1299544420
+s6904
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_small_3.png
+c000000004D757A690000000000001C55
+t1299544681
+s7253
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/s_mizrahi_emboss.png
+c000000004D765F8E0000000000001729
+t1299603342
+s5929
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/s_mizrahi_small.png
+c000000004D764CAF00000000000015EE
+t1299598511
+s5614
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/shoot.wav
+c000000004D0AD1070000000000001100
+t1292554503
+s4352
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing.png
+c000000004D5F1B9B000000000000170E
+t1298078619
+s5902
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing1.png
+c000000004D5F1E22000000000000064B
+t1298079266
+s1611
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_10.png
+c000000004D6BE2E80000000000001E34
+t1298916072
+s7732
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_11.png
+c000000004D6BE3090000000000001E3F
+t1298916105
+s7743
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_2.png
+c000000004D6BE10E0000000000001DE5
+t1298915598
+s7653
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_3.png
+c000000004D6BEF9E0000000000002C2D
+t1298919326
+s11309
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_4.png
+c000000004D6BF2750000000000001E1F
+t1298920053
+s7711
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5.png
+c000000004D6BE2680000000000001DAF
+t1298915944
+s7599
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5_1.png
+c000000004D6BF0FB0000000000001E5E
+t1298919675
+s7774
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_8.png
+c000000004D6BE2BD0000000000001DC5
+t1298916029
+s7621
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_9.png
+c000000004D6BE2D00000000000001DE5
+t1298916048
+s7653
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint.png
+c000000004D647AF800000000000020BE
+t1298430712
+s8382
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint1.png
+c000000004D647C6C0000000000002043
+t1298431084
+s8259
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/thunk.wav
+c000000004D7E076C00000000000035E7
+t1300105068
+s13799
+
+N/Users/yairstabinsky/Desktop/xcode projects/MarioMove/yyyyyyyyyyyyyyboing_x.wav
+c000000004D7D7FD80000000000001E3C
+t1300070360
+s7740
+
+N/var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch.gch
+t1298330214
+s15453392
+
+NMarioMove-Info.plist
+c000000004D6730FD00000000000004EB
+t1298608381
+s1259
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322024714#322024714#0(0"0(0#1#0"8624378240#0"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Bogy.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321288468.636816
+e321288468.815608
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Bogy.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m321288468#321288468#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m8612073536#2149"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Bogy.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Bogy.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/BogyView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/BogyView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Cop.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320801713.369006
+e320801713.602626
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Cop.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m320801713#320801713#0(0"0(0#0#67"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m8697124032#2147"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Cop.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Cop.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/DropStarOperation.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322023761.752038
+e322023761.920705
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/DropStarOperation.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m: In function '-[DropStarOperation init]':
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m:21: warning: control reaches end of non-void function
+lSLF07#2@89"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m322023761#322023761#0(260"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m: In function '-[DropStarOperation init]':/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m:21: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function322023761#124#136#0(6@81"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m322023761#21#0#21#0#40"control reaches end of non-void function0(0#0#81"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m8607912000#2175"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/DropStarOperation.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/DropStarOperation.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveAppDelegate.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322019917.790409
+e322019918.005383
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveAppDelegate.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m322019917#322019918#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m8623473248#2181"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveAppDelegate.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveAppDelegate.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322015474.810612
+e322015476.000698
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveViewController.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m: In function '-[MarioMoveViewController viewDidLoad]':
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m:611: warning: unused variable 'pastData'
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m: At top level:
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m:794: warning: property 'startController' requires method '-startController' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m:794: warning: property 'startController' requires the method 'setStartController:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@95"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m322015474#322015476#0(864"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m: In function '-[MarioMoveViewController viewDidLoad]':/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m:611: warning: unused variable 'pastData'/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m: At top level:/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m:794: warning: property 'startController' requires method '-startController' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m:794: warning: property 'startController' requires the method 'setStartController:' to be defined - use @synthesize, @dynamic or provide a method implementation4(22@26"Unused variable 'pastData'322015475#143#129#0(6@87"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m321323974#611#0#611#0#19"unused variable '*'0(23@13"At top level:322015475#272#103#0(6@87"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m321323974#0#0#0#0#0"0(22@138"Property 'startController' requires method '-startController' to be defined - use @synthesize, @dynamic or provide a method implementation322015475#375#241#0(6@87"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m321323974#794#0#794#0#0"0(22@145"Property 'startController' requires the method 'setStartController:' to be defined - use @synthesize, @dynamic or provide a method implementation322015475#616#248#0(6@87"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m321323974#794#0#794#0#0"0(0#0#87"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m8604096128#2187"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MarioMoveViewController.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMoveViewController.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Mover.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321531089.797401
+e321531090.011625
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Mover.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m321531089#321531090#0(0"0(0#0#69"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m8609631584#2151"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/Mover.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/Mover.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MoverView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321531089.906662
+e321531090.080781
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MoverView.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m321531089#321531090#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m8609549536#2159"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/MoverView.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MoverView.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/RoykeController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322023539.149337
+e322023540.076546
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/RoykeController.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m: In function '-[RoykeController onTimer]':
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m:183: warning: unused variable 'bulletInTheHead'
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m: In function '-[RoykeController viewDidLoad]':
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m:1147: warning: unused variable 'fuckit'
+lSLF07#2@87"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m322023539#322023540#0(498"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m: In function '-[RoykeController onTimer]':/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m:183: warning: unused variable 'bulletInTheHead'/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m: In function '-[RoykeController viewDidLoad]':/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m:1147: warning: unused variable 'fuckit'2(22@33"Unused variable 'bulletInTheHead'322023539#123#128#0(6@79"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m322023538#183#0#183#0#19"unused variable '*'0(22@24"Unused variable 'fuckit'322023539#378#120#0(6@79"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m322023538#1147#0#1147#0#19"unused variable '*'0(0#0#79"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m8606864800#2171"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/RoykeController.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/StartViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322019917.792012
+e322019918.115979
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/StartViewController.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m: In function '-[StartViewController viewWillAppear:]':
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m:80: warning: unused variable 'foo'
+lSLF07#2@91"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m322019917#322019918#0(258"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m: In function '-[StartViewController viewWillAppear:]':/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m:80: warning: unused variable 'foo'1(22@21"Unused variable 'foo'322019917#139#119#0(6@83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m322015456#80#0#80#0#19"unused variable '*'0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m8602967488#2179"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/StartViewController.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/budLightBullet.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320950649.789287
+e320950649.852287
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/budLightBullet.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m320950649#320950649#0(0"0(0#0#78"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m8609775424#2169"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/budLightBullet.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/budLightBullet.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/bulletView.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321026842.215570
+e321026842.489720
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/bulletView.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m: In function '-[bulletView touchesBegan:withEvent:]':
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m:52: warning: unused variable 'touch'
+lSLF07#2@82"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m321026842#321026842#0(241"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m: In function '-[bulletView touchesBegan:withEvent:]':/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m:52: warning: unused variable 'touch'1(22@23"Unused variable 'touch'321026842#129#112#0(6@74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m321026842#52#0#52#0#19"unused variable '*'0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m8674306720#2161"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/bulletView.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/bulletView.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/main.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320023015.137469
+e320023015.292801
+r1
+xCompileC
+xbuild/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/main.o
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m320023015#320023015#0(0"0(0#0#60"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m8664591776#2141"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -include /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/main.m" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/startViewController.o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/startViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.xib"
+s321840265.576626
+e321840266.196494
+r1
+xCompileXIB
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.xib
+lSLF07#2@38"CompileXIB Classes/RoykeController.xib321840265#321840266#0(0"0(0#0#81"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.xib8319383698888684544#641"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/RoykeController.nib" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/RoykeController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib"
+s321559442.192267
+e321559442.748019
+r1
+xCompileXIB
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on startViewController.
+lSLF07#2@42"CompileXIB Classes/StartViewController.xib321559442#321559442#0(255"/* com.apple.ibtool.document.warnings *//Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib:-1: warning: The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on startViewController.1(22@114"The 'view' outlet of 'File's Owner' is connected to 'View' but 'view' is no longer defined on startViewController.321559442#18446744073709551615#0#0(6@85"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib321559259#18446744073709551615#0#18446744073709551615#0#0"0(0#0#85"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib8622518496#649"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/StartViewController.nib" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/StartViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/start.xib"
+s321943564.724011
+e321943565.222890
+r1
+xCompileXIB
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/start.xib
+lSLF07#2@28"CompileXIB Classes/start.xib321943564#321943565#0(0"0(0#0#71"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/start.xib8656124672#621"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/start.nib" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/start.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Classes/startViewController.xib"
+r0
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib"
+s321233990.279945
+e321233990.744179
+r1
+xCompileXIB
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321233990#321233990#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib8603815936#623"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MainWindow.nib" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib"
+s321233990.291328
+e321233991.079583
+r1
+xCompileXIB
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib
+lSLF07#2@38"CompileXIB MarioMoveViewController.xib321233990#321233991#0(0"0(0#0#81"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib8616119424#649"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMoveViewController.nib" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMoveViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/MarioMove.app/Screen shot 2011-03-04 at 8.15.52 PM.png" "Screen shot 2011-03-04 at 8.15.52 PM.png"
+s320955398.648047
+e320955398.720534
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/Screen shot 2011-03-04 at 8.15.52 PM.png
+xScreen shot 2011-03-04 at 8.15.52 PM.png
+lSLF07#2@45"Copy Screen shot 2011-03-04 at 8.15.52 PM.png320955398#320955398#0(0"0(0#0#94"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Screen shot 2011-03-04 at 8.15.52 PM.png8604988576#551"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/Screen shot 2011-03-04 at 8.15.52 PM.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource "build/Debug-iphonesimulator/MarioMove.app/Screen shot 2011-03-13 at 11.06.13 PM.png" "explosion pics/Screen shot 2011-03-13 at 11.06.13 PM.png"
+s321747437.504592
+e321747437.516210
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/Screen shot 2011-03-13 at 11.06.13 PM.png
+xexplosion pics/Screen shot 2011-03-13 at 11.06.13 PM.png
+lSLF07#2@61"Copy explosion pics/Screen shot 2011-03-13 at 11.06.13 PM.png321747437#321747437#0(0"0(0#0#110"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/Screen shot 2011-03-13 at 11.06.13 PM.png8622154016#567"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/Screen shot 2011-03-13 at 11.06.13 PM.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource "build/Debug-iphonesimulator/MarioMove.app/boing_2 2.wav" "boing_2 2.wav"
+s320810167.781235
+e320810167.811751
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/boing_2 2.wav
+xboing_2 2.wav
+lSLF07#2@18"Copy boing_2 2.wav320810167#320810167#0(0"0(0#0#67"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/boing_2 2.wav8710809440#524"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/boing_2 2.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource "build/Debug-iphonesimulator/MarioMove.app/icon 2.png" "icon 2.png"
+s320293380.918702
+e320293380.992038
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/icon 2.png
+xicon 2.png
+lSLF07#2@15"Copy icon 2.png320293380#320293380#0(0"0(0#0#64"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon 2.png8618630400#521"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon 2.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource "build/Debug-iphonesimulator/MarioMove.app/jerga 2sm.png" "jerga 2sm.png"
+s320037579.523251
+e320037579.624515
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/jerga 2sm.png
+xjerga 2sm.png
+lSLF07#2@18"Copy jerga 2sm.png320037579#320037579#0(0"0(0#0#67"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/jerga 2sm.png8684590784#524"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/jerga 2sm.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/abort.wav abort.wav
+s320810167.737293
+e320810167.860927
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/abort.wav
+xabort.wav
+lSLF07#2@14"Copy abort.wav320810167#320810167#0(0"0(0#0#63"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/abort.wav8678063552#520"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/abort.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/ballbounce.wav ballbounce.wav
+s320476072.209098
+e320476072.226087
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/ballbounce.wav
+xballbounce.wav
+lSLF07#2@19"Copy ballbounce.wav320476072#320476072#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/ballbounce.wav8615449184#525"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/ballbounce.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/boing_1.wav boing_1.wav
+s320810167.778598
+e320810167.811446
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/boing_1.wav
+xboing_1.wav
+lSLF07#2@16"Copy boing_1.wav320810167#320810167#0(0"0(0#0#65"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/boing_1.wav8710974816#522"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/boing_1.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/budlight_small.png budlight_small.png
+s320303956.007391
+e320303956.020115
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/budlight_small.png
+xbudlight_small.png
+lSLF07#2@23"Copy budlight_small.png320303956#320303956#0(0"0(0#0#72"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/budlight_small.png8623911904#529"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/budlight_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/cop_dead.png cop_dead.png
+s320630722.438000
+e320630722.484853
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/cop_dead.png
+xcop_dead.png
+lSLF07#2@17"Copy cop_dead.png320630722#320630722#0(0"0(0#0#66"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_dead.png8669420096#523"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_dead.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/cop_in_broken_sheild.png cop_in_broken_sheild.png
+s320630722.464294
+e320630722.485817
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/cop_in_broken_sheild.png
+xcop_in_broken_sheild.png
+lSLF07#2@29"Copy cop_in_broken_sheild.png320630722#320630722#0(0"0(0#0#78"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_in_broken_sheild.png8665151168#535"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_in_broken_sheild.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/cop_small.png cop_small.png
+s320630722.435731
+e320630722.483039
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/cop_small.png
+xcop_small.png
+lSLF07#2@18"Copy cop_small.png320630722#320630722#0(0"0(0#0#67"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_small.png8664035136#524"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/cop_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion1.png "explosion pics/explosion1.png"
+s321747437.354064
+e321747437.438873
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion1.png
+xexplosion pics/explosion1.png
+lSLF07#2@34"Copy explosion pics/explosion1.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion1.png8621099968#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion1.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion10.png "explosion pics/explosion10.png"
+s321747437.355914
+e321747437.439005
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion10.png
+xexplosion pics/explosion10.png
+lSLF07#2@35"Copy explosion pics/explosion10.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion10.png8618485888#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion10.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion11.png "explosion pics/explosion11.png"
+s321747437.358708
+e321747437.463955
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion11.png
+xexplosion pics/explosion11.png
+lSLF07#2@35"Copy explosion pics/explosion11.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion11.png8622949152#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion11.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion12.png "explosion pics/explosion12.png"
+s321747437.360606
+e321747437.439120
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion12.png
+xexplosion pics/explosion12.png
+lSLF07#2@35"Copy explosion pics/explosion12.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion12.png8623063104#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion12.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion13.png "explosion pics/explosion13.png"
+s321747437.363479
+e321747437.439232
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion13.png
+xexplosion pics/explosion13.png
+lSLF07#2@35"Copy explosion pics/explosion13.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion13.png8607250528#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion13.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion14.png "explosion pics/explosion14.png"
+s321747437.365377
+e321747437.439348
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion14.png
+xexplosion pics/explosion14.png
+lSLF07#2@35"Copy explosion pics/explosion14.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion14.png8619158624#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion14.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion15.png "explosion pics/explosion15.png"
+s321747437.367163
+e321747437.439460
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion15.png
+xexplosion pics/explosion15.png
+lSLF07#2@35"Copy explosion pics/explosion15.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion15.png8620336672#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion15.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion16.png "explosion pics/explosion16.png"
+s321747437.368988
+e321747437.439572
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion16.png
+xexplosion pics/explosion16.png
+lSLF07#2@35"Copy explosion pics/explosion16.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion16.png8598594304#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion16.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion17.png "explosion pics/explosion17.png"
+s321747437.370799
+e321747437.439689
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion17.png
+xexplosion pics/explosion17.png
+lSLF07#2@35"Copy explosion pics/explosion17.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion17.png8621849856#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion17.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion18.png "explosion pics/explosion18.png"
+s321747437.372695
+e321747437.439803
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion18.png
+xexplosion pics/explosion18.png
+lSLF07#2@35"Copy explosion pics/explosion18.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion18.png8622213248#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion18.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion19.png "explosion pics/explosion19.png"
+s321747437.439872
+e321747437.463662
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion19.png
+xexplosion pics/explosion19.png
+lSLF07#2@35"Copy explosion pics/explosion19.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion19.png8623088416#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion19.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion2.png "explosion pics/explosion2.png"
+s321747437.440593
+e321747437.463852
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion2.png
+xexplosion pics/explosion2.png
+lSLF07#2@34"Copy explosion pics/explosion2.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion2.png8607094880#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion2.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion20.png "explosion pics/explosion20.png"
+s321747437.442359
+e321747437.464059
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion20.png
+xexplosion pics/explosion20.png
+lSLF07#2@35"Copy explosion pics/explosion20.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion20.png8597916992#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion20.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion21.png "explosion pics/explosion21.png"
+s321747437.445302
+e321747437.464157
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion21.png
+xexplosion pics/explosion21.png
+lSLF07#2@35"Copy explosion pics/explosion21.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion21.png8615538656#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion21.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion23.png "explosion pics/explosion23.png"
+s321747437.448159
+e321747437.510370
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion23.png
+xexplosion pics/explosion23.png
+lSLF07#2@35"Copy explosion pics/explosion23.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion23.png8615928256#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion23.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion24.png "explosion pics/explosion24.png"
+s321747437.450357
+e321747437.510470
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion24.png
+xexplosion pics/explosion24.png
+lSLF07#2@35"Copy explosion pics/explosion24.png321747437#321747437#0(0"0(0#0#84"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion24.png8617038112#541"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion24.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion3.png "explosion pics/explosion3.png"
+s321747437.452073
+e321747437.510565
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion3.png
+xexplosion pics/explosion3.png
+lSLF07#2@34"Copy explosion pics/explosion3.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion3.png8616309280#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion3.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion4.png "explosion pics/explosion4.png"
+s321747437.456434
+e321747437.510664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion4.png
+xexplosion pics/explosion4.png
+lSLF07#2@34"Copy explosion pics/explosion4.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion4.png8617943232#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion4.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion5.png "explosion pics/explosion5.png"
+s321747437.459733
+e321747437.510763
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion5.png
+xexplosion pics/explosion5.png
+lSLF07#2@34"Copy explosion pics/explosion5.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion5.png8618659744#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion5.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion6.png "explosion pics/explosion6.png"
+s321747437.464227
+e321747437.510048
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion6.png
+xexplosion pics/explosion6.png
+lSLF07#2@34"Copy explosion pics/explosion6.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion6.png8620489184#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion6.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion7.png "explosion pics/explosion7.png"
+s321747437.489085
+e321747437.510167
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion7.png
+xexplosion pics/explosion7.png
+lSLF07#2@34"Copy explosion pics/explosion7.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion7.png8606918624#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion7.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion8.png "explosion pics/explosion8.png"
+s321747437.496317
+e321747437.510270
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion8.png
+xexplosion pics/explosion8.png
+lSLF07#2@34"Copy explosion pics/explosion8.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion8.png8622509792#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion8.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/explosion9.png "explosion pics/explosion9.png"
+s321747437.502933
+e321747437.516645
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/explosion9.png
+xexplosion pics/explosion9.png
+lSLF07#2@34"Copy explosion pics/explosion9.png321747437#321747437#0(0"0(0#0#83"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion9.png8622948832#540"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/explosion pics/explosion9.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/fire.wav fire.wav
+s321800229.488475
+e321800229.532014
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/fire.wav
+xfire.wav
+lSLF07#2@13"Copy fire.wav321800229#321800229#0(0"0(0#0#62"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fire.wav8647181056#519"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fire.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/fist_small.png fist_small.png
+s320476072.207234
+e320476072.223617
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/fist_small.png
+xfist_small.png
+lSLF07#2@19"Copy fist_small.png320476072#320476072#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fist_small.png8616011680#525"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/fist_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/icon.png ../../icon.png
+s320293987.720783
+e320293987.760084
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/icon.png
+x../../icon.png
+lSLF07#2@19"Copy ../../icon.png320293987#320293987#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../icon.png8604165408#525"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../icon.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/icon.png icon.png
+s320294009.152868
+e320294009.167113
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png320294009#320294009#0(0"0(0#0#62"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon.png8605826784#519"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/icon1.png icon1.png
+s320293380.912930
+e320293380.991890
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/icon1.png
+xicon1.png
+lSLF07#2@14"Copy icon1.png320293380#320293380#0(0"0(0#0#63"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon1.png8685039968#520"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/icon1.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/joint.slphhha.png joint.slphhha.png
+s320082053.227507
+e320082053.307580
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/joint.slphhha.png
+xjoint.slphhha.png
+lSLF07#2@22"Copy joint.slphhha.png320082053#320082053#0(0"0(0#0#71"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/joint.slphhha.png8600602848#528"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/joint.slphhha.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/keter_smal.png keter_smal.png
+s321233991.083640
+e321233991.244436
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/keter_smal.png
+xketer_smal.png
+lSLF07#2@19"Copy keter_smal.png321233991#321233991#0(0"0(0#0#68"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/keter_smal.png8608463936#525"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/keter_smal.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/laser_1.wav laser_1.wav
+s320810167.764782
+e320810167.835984
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/laser_1.wav
+xlaser_1.wav
+lSLF07#2@16"Copy laser_1.wav320810167#320810167#0(0"0(0#0#65"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/laser_1.wav8669489632#522"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/laser_1.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/macabbi.png macabbi.png
+s321233991.080584
+e321233991.245363
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/macabbi.png
+xmacabbi.png
+lSLF07#2@16"Copy macabbi.png321233991#321233991#0(0"0(0#0#65"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/macabbi.png8602173344#522"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/macabbi.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/metal_clang_2.wav metal_clang_2.wav
+s320810167.790887
+e320810167.860730
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/metal_clang_2.wav
+xmetal_clang_2.wav
+lSLF07#2@22"Copy metal_clang_2.wav320810167#320810167#0(0"0(0#0#71"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/metal_clang_2.wav8710433504#528"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/metal_clang_2.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/metal_crunch.wav metal_crunch.wav
+s321798200.256793
+e321798200.337464
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/metal_crunch.wav
+xmetal_crunch.wav
+lSLF07#2@21"Copy metal_crunch.wav321798200#321798200#0(0"0(0#0#70"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/metal_crunch.wav8646645984#527"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/metal_crunch.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/mizrahi_broken.png mizrahi_broken.png
+s321241557.407590
+e321241557.430430
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/mizrahi_broken.png
+xmizrahi_broken.png
+lSLF07#2@23"Copy mizrahi_broken.png321241557#321241557#0(0"0(0#0#72"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/mizrahi_broken.png8617569056#529"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/mizrahi_broken.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/mizrahi_small.png mizrahi_small.png
+s321233991.082175
+e321233991.245482
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/mizrahi_small.png
+xmizrahi_small.png
+lSLF07#2@22"Copy mizrahi_small.png321233991#321233991#0(0"0(0#0#71"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/mizrahi_small.png8608314784#528"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/mizrahi_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/oh_no.wav oh_no.wav
+s320810167.771579
+e320810167.860544
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/oh_no.wav
+xoh_no.wav
+lSLF07#2@14"Copy oh_no.wav320810167#320810167#0(0"0(0#0#63"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/oh_no.wav8711739584#520"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/oh_no.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/playbarjoint.png playbarjoint.png
+s320113725.950726
+e320113726.049051
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/playbarjoint.png
+xplaybarjoint.png
+lSLF07#2@21"Copy playbarjoint.png320113725#320113726#0(0"0(0#0#70"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/playbarjoint.png8685444096#527"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/playbarjoint.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/police_star_small.png police_star_small.png
+s320384630.315608
+e320384630.373063
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/police_star_small.png
+xpolice_star_small.png
+lSLF07#2@26"Copy police_star_small.png320384630#320384630#0(0"0(0#0#75"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small.png8672168800#532"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/police_star_small_broken.png police_star_small_broken.png
+s320470917.180554
+e320470917.254637
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/police_star_small_broken.png
+xpolice_star_small_broken.png
+lSLF07#2@33"Copy police_star_small_broken.png320470917#320470917#0(0"0(0#0#82"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small_broken.png8670907168#539"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/police_star_small_broken.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/prettyJerga.png prettyJerga.png
+s320086909.176082
+e320086909.202250
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/prettyJerga.png
+xprettyJerga.png
+lSLF07#2@20"Copy prettyJerga.png320086909#320086909#0(0"0(0#0#69"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/prettyJerga.png8637641792#526"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/prettyJerga.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/royke_devil_big.png royke_devil_big.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/royke_devil_hurt_top.png royke_devil_hurt_top.png
+s321675927.364617
+e321675927.423315
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/royke_devil_hurt_top.png
+xroyke_devil_hurt_top.png
+lSLF07#2@29"Copy royke_devil_hurt_top.png321675927#321675927#0(0"0(0#0#78"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_devil_hurt_top.png8615778784#535"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_devil_hurt_top.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/royke_devil_small.png royke_devil_small.png
+s321240709.473078
+e321240709.480446
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/royke_devil_small.png
+xroyke_devil_small.png
+lSLF07#2@26"Copy royke_devil_small.png321240709#321240709#0(0"0(0#0#75"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_devil_small.png8590063488#532"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_devil_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/royke_small.png royke_small.png
+s321233991.079666
+e321233991.244168
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/royke_small.png
+xroyke_small.png
+lSLF07#2@20"Copy royke_small.png321233991#321233991#0(0"0(0#0#69"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_small.png8604595168#526"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/royke_small_2.png royke_small_2.png
+s321240709.472352
+e321240709.498819
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/royke_small_2.png
+xroyke_small_2.png
+lSLF07#2@22"Copy royke_small_2.png321240709#321240709#0(0"0(0#0#71"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_small_2.png8603001504#528"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/royke_small_2.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/royke_small_3.png royke_small_3.png
+r0
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/rustylow.wav ../../rustylow.wav
+s320810167.735595
+e320810167.812030
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/rustylow.wav
+x../../rustylow.wav
+opbxcp: rustylow.wav: No such file or directory
+lSLF07#2@23"Copy ../../rustylow.wav320810167#320810167#0(47"pbxcp: rustylow.wav: No such file or directory1(4@46"pbxcp: rustylow.wav: No such file or directory320810167#18446744073709551615#0#0(6@0"320810167#0#0#0#0#0"0(0#0#72"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../rustylow.wav8680183776#529"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/../../rustylow.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"1#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/s_mizrahi_emboss.png s_mizrahi_emboss.png
+s321296226.345015
+e321296226.358453
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/s_mizrahi_emboss.png
+xs_mizrahi_emboss.png
+lSLF07#2@25"Copy s_mizrahi_emboss.png321296226#321296226#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/s_mizrahi_emboss.png8612007744#531"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/s_mizrahi_emboss.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/s_mizrahi_small.png s_mizrahi_small.png
+s321291360.369284
+e321291360.416242
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/s_mizrahi_small.png
+xs_mizrahi_small.png
+lSLF07#2@24"Copy s_mizrahi_small.png321291360#321291360#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/s_mizrahi_small.png8603170720#530"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/s_mizrahi_small.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/shoot.wav shoot.wav
+s320476072.208056
+e320476072.220392
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/shoot.wav
+xshoot.wav
+lSLF07#2@14"Copy shoot.wav320476072#320476072#0(0"0(0#0#63"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/shoot.wav8615605536#520"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/shoot.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing.png stonedDrawing.png
+s320124051.218932
+e320124051.288260
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing.png
+xstonedDrawing.png
+lSLF07#2@22"Copy stonedDrawing.png320124051#320124051#0(0"0(0#0#71"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing.png8687619744#528"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing1.png stonedDrawing1.png
+s320082053.228247
+e320082053.306892
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing1.png
+xstonedDrawing1.png
+lSLF07#2@23"Copy stonedDrawing1.png320082053#320082053#0(0"0(0#0#72"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing1.png8616479968#529"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing1.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_10.png stonedDrawing_10.png
+s320609692.981015
+e320609693.032161
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_10.png
+xstonedDrawing_10.png
+lSLF07#2@25"Copy stonedDrawing_10.png320609692#320609693#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_10.png8640932416#531"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_10.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_11.png stonedDrawing_11.png
+s320609692.973756
+e320609693.031961
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_11.png
+xstonedDrawing_11.png
+lSLF07#2@25"Copy stonedDrawing_11.png320609692#320609693#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_11.png8641303584#531"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_11.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_2.png stonedDrawing_2.png
+s320609693.004887
+e320609693.032354
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_2.png
+xstonedDrawing_2.png
+lSLF07#2@24"Copy stonedDrawing_2.png320609693#320609693#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_2.png8640583872#530"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_2.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_3.png stonedDrawing_3.png
+s320614493.617623
+e320614493.659041
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_3.png
+xstonedDrawing_3.png
+lSLF07#2@24"Copy stonedDrawing_3.png320614493#320614493#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_3.png8664292832#530"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_3.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_4.png stonedDrawing_4.png
+s320614493.623411
+e320614493.653533
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_4.png
+xstonedDrawing_4.png
+lSLF07#2@24"Copy stonedDrawing_4.png320614493#320614493#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_4.png8669522880#530"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_4.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_5.png stonedDrawing_5.png
+s320609692.977479
+e320609693.032063
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_5.png
+xstonedDrawing_5.png
+lSLF07#2@24"Copy stonedDrawing_5.png320609692#320609693#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5.png8641072672#530"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_5_1.png stonedDrawing_5_1.png
+s320614493.622635
+e320614493.653408
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_5_1.png
+xstonedDrawing_5_1.png
+lSLF07#2@26"Copy stonedDrawing_5_1.png320614493#320614493#0(0"0(0#0#75"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5_1.png8664530880#532"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_5_1.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_8.png stonedDrawing_8.png
+s320609693.005710
+e320609693.038631
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_8.png
+xstonedDrawing_8.png
+lSLF07#2@24"Copy stonedDrawing_8.png320609693#320609693#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_8.png8640498976#530"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_8.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_9.png stonedDrawing_9.png
+s320609692.994654
+e320609693.032256
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_9.png
+xstonedDrawing_9.png
+lSLF07#2@24"Copy stonedDrawing_9.png320609692#320609693#0(0"0(0#0#73"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_9.png8640700576#530"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_9.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_no_joint.png stonedDrawing_no_joint.png
+s320123718.416755
+e320123718.499830
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_no_joint.png
+xstonedDrawing_no_joint.png
+lSLF07#2@31"Copy stonedDrawing_no_joint.png320123718#320123718#0(0"0(0#0#80"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint.png8630716928#537"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/stonedDrawing_no_joint1.png stonedDrawing_no_joint1.png
+s320124051.212739
+e320124051.288504
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/stonedDrawing_no_joint1.png
+xstonedDrawing_no_joint1.png
+lSLF07#2@32"Copy stonedDrawing_no_joint1.png320124051#320124051#0(0"0(0#0#81"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint1.png8688418624#538"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/stonedDrawing_no_joint1.png" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/thunk.wav thunk.wav
+s321798200.301762
+e321798200.317055
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/thunk.wav
+xthunk.wav
+lSLF07#2@14"Copy thunk.wav321798200#321798200#0(0"0(0#0#63"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/thunk.wav8635539648#520"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/thunk.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CCpResource build/Debug-iphonesimulator/MarioMove.app/yyyyyyyyyyyyyyboing_x.wav yyyyyyyyyyyyyyboing_x.wav
+s321763257.986705
+e321763258.048698
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MarioMove.app/yyyyyyyyyyyyyyboing_x.wav
+xyyyyyyyyyyyyyyboing_x.wav
+lSLF07#2@30"Copy yyyyyyyyyyyyyyboing_x.wav321763257#321763258#0(0"0(0#0#79"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/yyyyyyyyyyyyyyboing_x.wav8619467200#536"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/yyyyyyyyyyyyyyboing_x.wav" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
+CGenerateDSYMFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app.dSYM" "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove"
+s322023762.112001
+e322023762.338452
+r1
+xGenerateDSYMFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app.dSYM
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/MarioMove.app.dSYM build/Debug-iphonesimulator/MarioMove.app/MarioMove322023762#322023762#0(0"0(0#0#105"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove8626458240#440"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove" -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app.dSYM"0#
+
+CLd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove" normal i386
+s322023761.921042
+e322023762.111908
+r1
+xLd
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove
+xnormal
+xi386
+lSLF07#2@110"Link /Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove322023761#322023762#0(0"0(0#0#0"8627435936#1019"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" -filelist "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/Objects-normal/i386/MarioMove.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/MarioMove"0#
+
+CProcessInfoPlistFile "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/Info.plist" MarioMove-Info.plist
+s320303955.753975
+e320303956.006206
+r1
+xProcessInfoPlistFile
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/Info.plist
+xMarioMove-Info.plist
+lSLF07#2@28"Process MarioMove-Info.plist320303955#320303956#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove-Info.plist8615447296#536"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MarioMove-Info.plist -genpkginfo "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app/Info.plist"0#
+
+CProcessPCH /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch.gch MarioMove_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320023013.149493
+e320023015.137226
+r1
+xProcessPCH
+x/var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch.gch
+xMarioMove_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile MarioMove_Prefix.pch320023013#320023015#0(0"0(0#0#74"/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch8671087136#2014"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-generated-files.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-own-target-headers.hmap" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-all-target-headers.hmap" -iquote "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/MarioMove-project-headers.hmap" "-F/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/include" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources/i386" "-I/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/MarioMove.build/Debug-iphonesimulator/MarioMove.build/DerivedSources" -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/MarioMove_Prefix.pch" -o /var/folders/4-/4-prgp-QEJOkRBVZ7ulOAU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MarioMove_Prefix-gvaeebiycsjnvrbhitkhdarkmstw/MarioMove_Prefix.pch.gch0#
+
+CTouch "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"
+s322023762.338534
+e322023762.341491
+r1
+xTouch
+x/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app
+lSLF07#2@101"Touch /Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app322023762#322023762#0(0"0(0#0#0"8628450944#314"    cd "/Users/yairstabinsky/Desktop/xcode projects/MarioMove"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/yairstabinsky/Desktop/xcode projects/MarioMove/build/Debug-iphonesimulator/MarioMove.app"0#
+
