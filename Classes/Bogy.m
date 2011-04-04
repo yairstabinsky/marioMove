@@ -45,7 +45,7 @@
 		{
 			velocity.x=velocity.x<0?-5:5;
 		}
-		
+		//madonna porka
     }
 	 
 	

@@ -16,6 +16,7 @@
 {
 	isUsed=NO;
 	wasJustBorn=NO;
+    //pork and donuts
 }
 
 -(void)initWithStartingPoint:(CGPoint) startingPoint andView:(UIImageView*) view
@@ -43,7 +44,7 @@
 		return YES;
 	}
 	
-}
+}//porka madonna
 
 - (void)dealloc {
 	
