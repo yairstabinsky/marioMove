@@ -15,3 +15,4 @@
 }
 @property BOOL animationLock;
 @end
+ // added this with yehuda at 3:10 to yehuda branch
