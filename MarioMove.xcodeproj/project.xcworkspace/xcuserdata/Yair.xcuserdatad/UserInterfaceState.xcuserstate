@@ -2982,7 +2982,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>323701827.20161003</real>
+		<real>323702189.82609099</real>
 		<string>{0, 772}</string>
 		<dict>
 			<key>$class</key>
@@ -3556,7 +3556,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>277</integer>
+					<integer>278</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -3564,11 +3564,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>285</integer>
+					<integer>286</integer>
 				</dict>
 			</array>
 		</dict>
-		<string>Bogy.h</string>
+		<string>Cop.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3762,7 +3762,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>274</integer>
+					<integer>275</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3799,11 +3799,12 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>192</integer>
+					<integer>274</integer>
 				</dict>
 			</array>
 		</dict>
 		<string>MarioMove</string>
+		<string>Cop.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -3814,11 +3815,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>275</integer>
+					<integer>276</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>276</integer>
+					<integer>277</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3871,7 +3872,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>278</integer>
+					<integer>279</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3885,15 +3886,15 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>279</integer>
+					<integer>280</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>281</integer>
+					<integer>282</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>283</integer>
+					<integer>284</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3922,7 +3923,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>280</integer>
+					<integer>281</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3952,7 +3953,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>282</integer>
+					<integer>283</integer>
 				</dict>
 			</array>
 		</dict>
@@ -3982,7 +3983,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>284</integer>
+					<integer>285</integer>
 				</dict>
 			</array>
 		</dict>
@@ -4032,7 +4033,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>286</integer>
+					<integer>287</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -4078,7 +4079,7 @@
 			<key>primaryEditorContextNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>287</integer>
+				<integer>288</integer>
 			</dict>
 			<key>rootLayoutTreeNode</key>
 			<dict>
@@ -4102,7 +4103,7 @@
 			<key>documentArchivableRepresentation</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>288</integer>
+				<integer>289</integer>
 			</dict>
 			<key>orientation</key>
 			<integer>0</integer>
@@ -4131,7 +4132,7 @@
 			<key>IdentifierPath</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>289</integer>
+				<integer>290</integer>
 			</dict>
 			<key>IndexOfDocumentIdentifier</key>
 			<dict>
@@ -4149,7 +4150,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>290</integer>
+					<integer>291</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -4170,10 +4171,9 @@
 			<key>Identifier</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>291</integer>
+				<integer>274</integer>
 			</dict>
 		</dict>
-		<string>Bogy.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4223,7 +4223,7 @@
 				<integer>93</integer>
 			</dict>
 			<key>NS.string</key>
-			<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Bogy.h</string>
+			<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Cop.h</string>
 		</dict>
 		<dict>
 			<key>$class</key>
@@ -4261,7 +4261,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>287</integer>
+					<integer>288</integer>
 				</dict>
 			</array>
 		</dict>
@@ -4411,11 +4411,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>291</integer>
+					<integer>274</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>291</integer>
+					<integer>274</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -4486,7 +4486,7 @@
 			<key>Identifier</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>291</integer>
+				<integer>274</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -4559,9 +4559,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>323701827.19998997</real>
-		<string>{0, 386}</string>
-		<string>{386, 0}</string>
+		<real>323702189.82455403</real>
+		<string>{0, 565}</string>
+		<string>{565, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4579,7 +4579,7 @@
 				<integer>316</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Bogy.h</string>
+		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Cop.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5020,7 +5020,7 @@
 				</dict>
 			</array>
 		</dict>
-		<string>{{6, 0}, {1276, 778}}</string>
+		<string>{{6, -9}, {1276, 778}}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5086,23 +5086,23 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>407</integer>
+					<integer>408</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>412</integer>
+					<integer>413</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>415</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
-					<integer>421</integer>
+					<integer>416</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>422</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>423</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -5149,7 +5149,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>401</integer>
+					<integer>402</integer>
 				</dict>
 			</array>
 		</dict>
@@ -5184,7 +5184,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>364</integer>
+					<integer>365</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -5227,15 +5227,15 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>391</integer>
+					<integer>392</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>394</integer>
+					<integer>395</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>398</integer>
+					<integer>399</integer>
 				</dict>
 			</array>
 		</dict>
@@ -5339,8 +5339,17 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>296</integer>
+				<integer>364</integer>
 			</dict>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>93</integer>
+			</dict>
+			<key>NS.string</key>
+			<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Bogy.h</string>
 		</dict>
 		<dict>
 			<key>$class</key>
@@ -5356,17 +5365,8 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>365</integer>
+				<integer>296</integer>
 			</dict>
-		</dict>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>93</integer>
-			</dict>
-			<key>NS.string</key>
-			<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Cop.h</string>
 		</dict>
 		<dict>
 			<key>$class</key>
@@ -5538,7 +5538,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>323698083.91253799</real>
+		<real>323702168.133057</real>
 		<string>{0, 468}</string>
 		<dict>
 			<key>$class</key>
@@ -5632,7 +5632,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>323701827.19935101</real>
+		<real>323702189.82377899</real>
 		<string>{0, 772}</string>
 		<dict>
 			<key>$class</key>
@@ -5723,12 +5723,13 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>131</integer>
+					<integer>391</integer>
 				</dict>
 			</array>
 		</dict>
-		<real>323687936.93698603</real>
-		<string>{0, 554}</string>
+		<real>323702189.82362401</real>
+		<string>{0, 565}</string>
+		<string>{565, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5758,11 +5759,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>392</integer>
+					<integer>393</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>393</integer>
+					<integer>394</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -5805,11 +5806,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>395</integer>
+					<integer>396</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>396</integer>
+					<integer>397</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -5817,7 +5818,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>397</integer>
+					<integer>398</integer>
 				</dict>
 			</array>
 		</dict>
@@ -5853,11 +5854,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>399</integer>
+					<integer>400</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>400</integer>
+					<integer>401</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -5881,14 +5882,14 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>402</integer>
+					<integer>403</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>404</integer>
+					<integer>405</integer>
 				</dict>
 			</array>
 		</dict>
@@ -5906,7 +5907,7 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>403</integer>
+				<integer>404</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -5947,11 +5948,11 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>405</integer>
+					<integer>406</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>406</integer>
+					<integer>407</integer>
 				</dict>
 			</array>
 		</dict>
@@ -5967,22 +5968,22 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>408</integer>
+					<integer>409</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>409</integer>
+					<integer>410</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>410</integer>
+					<integer>411</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>411</integer>
+					<integer>412</integer>
 				</dict>
 			</array>
 		</dict>
@@ -6000,14 +6001,14 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>413</integer>
+					<integer>414</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>414</integer>
+					<integer>415</integer>
 				</dict>
 			</array>
 		</dict>
@@ -6030,7 +6031,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>416</integer>
+					<integer>417</integer>
 				</dict>
 			</array>
 		</dict>
@@ -6044,22 +6045,22 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>417</integer>
+					<integer>418</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>418</integer>
+					<integer>419</integer>
 				</dict>
 			</array>
 			<key>NS.objects</key>
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>419</integer>
+					<integer>420</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>420</integer>
+					<integer>421</integer>
 				</dict>
 			</array>
 		</dict>
@@ -6077,11 +6078,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>3</integer>
+					<integer>4</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>4</integer>
+					<integer>3</integer>
 				</dict>
 			</array>
 		</dict>
@@ -6095,39 +6096,39 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>423</integer>
+					<integer>424</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>425</integer>
+					<integer>426</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>427</integer>
+					<integer>428</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>429</integer>
+					<integer>430</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>431</integer>
+					<integer>432</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>433</integer>
+					<integer>434</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>435</integer>
+					<integer>436</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>437</integer>
+					<integer>438</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>439</integer>
+					<integer>440</integer>
 				</dict>
 			</array>
 		</dict>
@@ -6145,7 +6146,25 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>424</integer>
+				<integer>425</integer>
+			</dict>
+		</dict>
+		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Cop.h</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>135</integer>
+			</dict>
+			<key>NS.base</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>NS.relative</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>427</integer>
 			</dict>
 		</dict>
 		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Cop.m</string>
@@ -6163,115 +6182,7 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>426</integer>
-			</dict>
-		</dict>
-		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Bogy.h</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>135</integer>
-			</dict>
-			<key>NS.base</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>NS.relative</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>428</integer>
-			</dict>
-		</dict>
-		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Bogy.m</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>135</integer>
-			</dict>
-			<key>NS.base</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>NS.relative</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>430</integer>
-			</dict>
-		</dict>
-		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/budLightBullet.h</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>135</integer>
-			</dict>
-			<key>NS.base</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>NS.relative</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>432</integer>
-			</dict>
-		</dict>
-		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/StartViewController.m</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>135</integer>
-			</dict>
-			<key>NS.base</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>NS.relative</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>434</integer>
-			</dict>
-		</dict>
-		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/bulletView.h</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>135</integer>
-			</dict>
-			<key>NS.base</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>NS.relative</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>436</integer>
-			</dict>
-		</dict>
-		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/StartViewController.h</string>
-		<dict>
-			<key>$class</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>135</integer>
-			</dict>
-			<key>NS.base</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>0</integer>
-			</dict>
-			<key>NS.relative</key>
-			<dict>
-				<key>CF$UID</key>
-				<integer>438</integer>
+				<integer>429</integer>
 			</dict>
 		</dict>
 		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/budLightBullet.m</string>
@@ -6289,10 +6200,100 @@
 			<key>NS.relative</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>440</integer>
+				<integer>431</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Cop.h</string>
+		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Bogy.h</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>135</integer>
+			</dict>
+			<key>NS.base</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>NS.relative</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>433</integer>
+			</dict>
+		</dict>
+		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/Bogy.m</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>135</integer>
+			</dict>
+			<key>NS.base</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>NS.relative</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>435</integer>
+			</dict>
+		</dict>
+		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/budLightBullet.h</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>135</integer>
+			</dict>
+			<key>NS.base</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>NS.relative</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>437</integer>
+			</dict>
+		</dict>
+		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/StartViewController.m</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>135</integer>
+			</dict>
+			<key>NS.base</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>NS.relative</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>439</integer>
+			</dict>
+		</dict>
+		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/bulletView.h</string>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>135</integer>
+			</dict>
+			<key>NS.base</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>0</integer>
+			</dict>
+			<key>NS.relative</key>
+			<dict>
+				<key>CF$UID</key>
+				<integer>441</integer>
+			</dict>
+		</dict>
+		<string>file://localhost/Users/Yair/Desktop/marioMove/Classes/StartViewController.h</string>
 	</array>
 	<key>$top</key>
 	<dict>

@@ -24,3 +24,4 @@
 -(void)isUsedNo;
 @property (nonatomic,retain) UIImageView* currentView;
 @end
+//added to branch Yair at 4:16pm
